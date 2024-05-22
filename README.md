@@ -25,8 +25,6 @@ Cela va installer toutes les dépendances de development et de production.
 Maintenant exécuter simplement la tâche pour démarrer le serveur :
 
 ```
-yarn start
-# OU
 npm start
 ```
 
