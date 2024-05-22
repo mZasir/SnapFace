@@ -1,5 +1,7 @@
 # Snapface
 
+Application de partage de photos réalisé dans le cadre de mon apprentissage d'Angular, pas de partie Back-End pour l'instant.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
 
 ## Development server
