@@ -4,7 +4,7 @@ Application de partage de photos réalisé dans le cadre de mon apprentissage d'
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
 
-## Dependency installation
+## Installation des dépendances
 
 L'application utilise Node.js, suivez les étapes pour installer le nécéssaire :
 
