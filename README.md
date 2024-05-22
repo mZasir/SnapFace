@@ -4,26 +4,32 @@ Application de partage de photos réalisé dans le cadre de mon apprentissage d'
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
 
-## Development server
+## Dependency installation
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+L'application utilise Node.js, suivez les étapes pour installer le nécéssaire :
 
-## Code scaffolding
+[Télécharger et installer Node.js pour Windows ou Mac.](https://nodejs.org/fr/download/)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+C'est tout ce qui est requis pour démarrer le projet. Voyons l'installation et la mise en route.
 
-## Build
+## Installation du projet et mise en route
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Maintenant que vous avez récupéré le projet et installé Node.JS, il vous suffit d'ouvrir un terminal dans le dossier contenant le projet et de lancer les tâches suivantes :
 
-## Running unit tests
+```
+npm install
+```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Cela va installer toutes les dépendances de development et de production.
 
-## Running end-to-end tests
+Maintenant exécuter simplement la tâche pour démarrer le serveur :
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+```
+yarn start
+# OU
+npm start
+```
 
-## Further help
+Visitez localhost:4200 pour commencer !
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
